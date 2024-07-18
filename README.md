@@ -1,6 +1,8 @@
 # Invoker
 Жоски биндер для видеоигры Dota 2 на перонажа Invoker с возможностьь **СМЕНИТЬ** кнопки 
 
+[Видео биндера](https://youtu.be/gwBVSpoSzZ4)
+
 ### Хов инсталл:
 ```
 pip install keyboard
