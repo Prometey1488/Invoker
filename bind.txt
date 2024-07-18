@@ -1,0 +1,10 @@
+4, wwqr, photo1
+5, qwer, photo2
+6, wwwr, photo3
+f1, qqwr, photo4
+f2, eeqr, photo5
+f3, wwer, photo6
+f4, qqqr, photo7
+`, qqer, photo8
+tab, eewr, photo9
+left shift, eeer, photo10
